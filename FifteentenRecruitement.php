@@ -1,8 +1,8 @@
 <?php
    /**
-   * Plugin Name: Fifteenten Recruitment - 
+   * Plugin Name: Fifteenten Recruitment - Initializer
    * Plugin URI: 
-   * description:  Initialises FifteenTen Recriutment Site
+   * description:  Initializes FifteenTen Recriutment Site
    * Version: 1.2
    * Author: Will @ Fifteenten
    * Author URI: fifteenten.co.uk
