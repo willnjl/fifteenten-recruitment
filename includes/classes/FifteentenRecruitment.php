@@ -12,6 +12,7 @@ class FifteentenRecruitment
     }
 
 
+
     public function register_cpts()
     {
         // cpt
