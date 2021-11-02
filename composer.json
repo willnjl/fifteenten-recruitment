@@ -14,7 +14,7 @@
         {
             "name" : "15/10 Ltd",
             "homepage": "https://fifteenten.co.uk/"
-        },
-    ]
-
+        }
+    ],
+    "type": "wordpress-plugin"
 }
