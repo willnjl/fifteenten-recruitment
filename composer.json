@@ -5,6 +5,16 @@
         "wordpress",
         "plugin"
     ],
-    "homepage": "https://github.com/willnjl/fifteenten-recruitment"
+    "homepage": "https://github.com/willnjl/fifteenten-recruitment",
+    "authors": [
+        {    
+            "name" : "Will Leighton",
+            "homepage": "https://github.com/willnjl"
+        },
+        {
+            "name" : "15/10 Ltd",
+            "homepage": "https://fifteenten.co.uk/"
+        },
+    ]
 
 }
