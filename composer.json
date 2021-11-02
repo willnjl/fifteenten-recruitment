@@ -1,4 +1,10 @@
 {
-    "name": "willnjl/Fifteenten-Recruitment",
-    
+    "name": "willnjl/fifteenten-recruitment",
+    "description": "",
+    "keywords": [
+        "wordpress",
+        "plugin"
+    ],
+    "homepage": "https://github.com/willnjl/fifteenten-recruitment"
+
 }
