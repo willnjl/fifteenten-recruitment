@@ -16,5 +16,9 @@
             "homepage": "https://fifteenten.co.uk/"
         }
     ],
-    "type": "wordpress-plugin"
+    "type": "wordpress-plugin",
+    
+    "require" : {
+        "composer/installers" : "~1.0"
+    }
 }
